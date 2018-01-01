@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\0d9c212373177295b5cda475f40e365191d45a1c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\0d9c212373177295b5cda475f40e365191d45a1c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\0d9c212373177295b5cda475f40e365191d45a1c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\0d9c212373177295b5cda475f40e365191d45a1c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\subha\\.android\\build-cache\\54c792139165f03ee3840222a5a1b6131c14b35e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

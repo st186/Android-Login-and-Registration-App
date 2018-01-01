@@ -1,0 +1,7 @@
+#Sun Apr 16 09:23:40 IST 2017
+base.0=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e90cfd6ce68fc7480a5a3c159405cf87201c8ab8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_536c652b9dbba6426491ec58d62b924e66ce3a9e\\classes.dex
+base.1=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_536c652b9dbba6426491ec58d62b924e66ce3a9e
+file.0=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e90cfd6ce68fc7480a5a3c159405cf87201c8ab8\\classes.dex

@@ -1,0 +1,22 @@
+#Sun Apr 16 05:53:26 IST 2017
+renamed.6=classes7.dex
+renamed.5=classes.dex
+renamed.4=classes6.dex
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes5.dex
+base.6=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_6f6092a4a49563d2905c3fe03ccdeeff826369db
+base.5=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3d8e234e1c1088e91b847ec4df4afcd64cf6ff10
+base.4=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c0e0ce61b0af6bffcfb33a9bd55aa1478382c56c
+base.3=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_70c239382b8e41d1bae404430f909cfc80a1d870
+base.2=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_61b083636734b61ce3730bcec1196aabdb3c4995
+base.1=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9fb4e4d19936339672bce86d5c3128656f72792e
+base.0=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b73a811441780363cce1ce4357228cf179af778f
+file.6=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_6f6092a4a49563d2905c3fe03ccdeeff826369db\\classes.dex
+file.5=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3d8e234e1c1088e91b847ec4df4afcd64cf6ff10\\classes.dex
+file.4=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c0e0ce61b0af6bffcfb33a9bd55aa1478382c56c\\classes.dex
+file.3=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_70c239382b8e41d1bae404430f909cfc80a1d870\\classes.dex
+file.2=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_61b083636734b61ce3730bcec1196aabdb3c4995\\classes.dex
+file.1=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9fb4e4d19936339672bce86d5c3128656f72792e\\classes.dex
+file.0=E\:\\appathon\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b73a811441780363cce1ce4357228cf179af778f\\classes.dex
